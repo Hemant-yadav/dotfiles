@@ -1,0 +1,5 @@
+#docker
+alias dc="docker-compose"
+# Python
+alias python='/usr/bin/python3'
+alias tx=tmuxinator
