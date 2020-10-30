@@ -1,12 +1,17 @@
 Plug 'preservim/nerdtree'
-Plug 'tpope/vim-fugitive'
-Plug 'jiangmiao/auto-pairs'
 Plug 'ryanoasis/vim-devicons'
+Plug 'xuyuanp/nerdtree-git-plugin'
+Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'SirVer/ultisnips'
+Plug 'mlaursen/vim-react-snippets'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'prettier/vim-prettier', { 'do': 'yarn install'  }
+Plug 'airblade/vim-gitgutter'
+Plug 'morhetz/gruvbox'
+" Plug 'jiangmiao/auto-pairs'
+" Plug 'prettier/vim-prettier', { 'do': 'yarn install'  }
+" Plug 'maxmellon/vim-jsx-pretty'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'yuezk/vim-js'
-Plug 'maxmellon/vim-jsx-pretty'
 Plug 'tpope/vim-obsession'
-Plug 'christoomey/vim-tmux-navigator'
