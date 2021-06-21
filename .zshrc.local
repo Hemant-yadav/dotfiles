@@ -26,6 +26,9 @@ load-nvmrc() {
     nvm use default
   fi
 }
+tm() {
+  tmux -u at -t $1
+}
 # add-zsh-hook chpwd load-nvmrc
 # load-nvmrc
 plugins=(
@@ -38,3 +41,5 @@ plugins=(
   docker-compose
   tmux
 )
+export LC_ALL=en_IN.UTF-8
+export LANG=en_IN.UTF-8
