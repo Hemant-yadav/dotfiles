@@ -3,7 +3,4 @@ alias dc="docker-compose"
 # Python
 alias python='/usr/bin/python3'
 alias tx=tmuxinator
-alias sshfly="ssh ubuntu@15.206.16.185"
-alias sshfrontprod='ssh ubuntu@13.234.87.226'
-alias sshflynotestaging="ssh ubuntu@13.234.61.79"
 
