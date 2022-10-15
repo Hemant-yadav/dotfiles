@@ -1,0 +1,7 @@
+[pull]
+    rebase = true
+[alias]
+    lg = log --graph --pretty=tformat:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --decorate=full
+[user]
+    email = hemantyadav.mnit@gmail.com
+    name = Hemant Yadav
